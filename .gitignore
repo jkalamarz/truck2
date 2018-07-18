@@ -12,6 +12,7 @@ Icon?
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
+.collabignore
 
 # Visual Studio / MonoDevelop generated
 # =====================================
@@ -32,3 +33,6 @@ ehthumbs.db
 sysinfo.txt
 *.stackdump
 Temp/
+.vs/
+.vscode/
+Library/Collab/

@@ -4515,7 +4515,7 @@ WheelCollider:
     m_ExtremumValue: 1
     m_AsymptoteSlip: 0.8
     m_AsymptoteValue: 0.75
-    m_Stiffness: 1.15
+    m_Stiffness: 1.1
   m_Enabled: 1
 --- !u!1 &1811202918
 GameObject:
@@ -4637,7 +4637,7 @@ WheelCollider:
     m_ExtremumValue: 1
     m_AsymptoteSlip: 0.8
     m_AsymptoteValue: 0.75
-    m_Stiffness: 1.15
+    m_Stiffness: 1.1
   m_Enabled: 1
 --- !u!1 &1880176731
 GameObject:
@@ -4700,7 +4700,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: -1000
   far clip plane: 1000
   field of view: 60
   orthographic: 1
@@ -5239,13 +5239,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2103121194}
-  m_LocalRotation: {x: 0.13502389, y: 0, z: 0, w: 0.99084234}
-  m_LocalPosition: {x: -0, y: 4.16, z: -7.45}
+  m_LocalRotation: {x: 0.24820752, y: -0.53222287, z: 0.16678853, w: 0.7920312}
+  m_LocalPosition: {x: 15.25, y: 9, z: -10.51}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 892140334}
   m_RootOrder: 10
-  m_LocalEulerAnglesHint: {x: 15.52, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 34.8, y: -67.8, z: 0}
 --- !u!81 &2103121196
 AudioListener:
   m_ObjectHideFlags: 0
